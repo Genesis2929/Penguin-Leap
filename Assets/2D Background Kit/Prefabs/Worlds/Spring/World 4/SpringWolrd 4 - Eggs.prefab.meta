@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 641a731b71c678d4ea6c0b1f947009d6
+timeCreated: 1453913610
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55095
+  packageName: 2D Platform Background Kit
+  packageVersion: 1.0
+  assetPath: Assets/2D Background Kit/Prefabs/Worlds/Spring/World 4/SpringWolrd 4
+    - Eggs.prefab
+  uploadId: 351385

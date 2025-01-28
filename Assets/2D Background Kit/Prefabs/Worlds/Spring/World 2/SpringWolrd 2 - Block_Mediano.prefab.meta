@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 55b7a1bf8083980409cba718173a1fb6
+timeCreated: 1453908929
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55095
+  packageName: 2D Platform Background Kit
+  packageVersion: 1.0
+  assetPath: Assets/2D Background Kit/Prefabs/Worlds/Spring/World 2/SpringWolrd 2
+    - Block_Mediano.prefab
+  uploadId: 351385

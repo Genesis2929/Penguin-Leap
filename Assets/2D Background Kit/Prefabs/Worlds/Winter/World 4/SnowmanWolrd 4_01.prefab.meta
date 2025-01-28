@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0f58f6fb01e980d49aae7c72c4d85fc1
+timeCreated: 1453913418
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55095
+  packageName: 2D Platform Background Kit
+  packageVersion: 1.0
+  assetPath: Assets/2D Background Kit/Prefabs/Worlds/Winter/World 4/SnowmanWolrd
+    4_01.prefab
+  uploadId: 351385

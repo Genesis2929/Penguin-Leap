@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1ffa58e694e8a74eb2906d3c9e70321
+timeCreated: 1453916945
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55095
+  packageName: 2D Platform Background Kit
+  packageVersion: 1.0
+  assetPath: Assets/2D Background Kit/Prefabs/Effects/Rain_Flowers.prefab
+  uploadId: 351385

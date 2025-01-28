@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 19bb935eeb5438c4cb75059969d5e0e9
+timeCreated: 1453909382
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55095
+  packageName: 2D Platform Background Kit
+  packageVersion: 1.0
+  assetPath: Assets/2D Background Kit/Prefabs/Worlds/Spring/World 3/SpringWolrd 3
+    - Tree_02.prefab
+  uploadId: 351385

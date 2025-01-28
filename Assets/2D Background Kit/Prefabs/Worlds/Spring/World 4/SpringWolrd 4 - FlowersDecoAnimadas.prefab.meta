@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 763f6798244bc8f41959946d0e90e899
+timeCreated: 1453913643
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55095
+  packageName: 2D Platform Background Kit
+  packageVersion: 1.0
+  assetPath: Assets/2D Background Kit/Prefabs/Worlds/Spring/World 4/SpringWolrd 4
+    - FlowersDecoAnimadas.prefab
+  uploadId: 351385

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 22e0bb1436a11e74d8d8e448c108d12d
+timeCreated: 1453910912
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55095
+  packageName: 2D Platform Background Kit
+  packageVersion: 1.0
+  assetPath: Assets/2D Background Kit/Prefabs/Worlds/Winter/World 3/WinterWolrd 3
+    - Block_Largo.prefab
+  uploadId: 351385

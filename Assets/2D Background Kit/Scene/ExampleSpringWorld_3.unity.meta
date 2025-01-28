@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9f63ccad8b0b3341b5191082c4e09b4
+timeCreated: 1453922359
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55095
+  packageName: 2D Platform Background Kit
+  packageVersion: 1.0
+  assetPath: Assets/2D Background Kit/Scene/ExampleSpringWorld_3.unity
+  uploadId: 351385

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 45a32d96314c7204d9b24a71602521a0
+timeCreated: 1453905788
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55095
+  packageName: 2D Platform Background Kit
+  packageVersion: 1.0
+  assetPath: Assets/2D Background Kit/Animations/FloresDecoAnimacion.anim
+  uploadId: 351385

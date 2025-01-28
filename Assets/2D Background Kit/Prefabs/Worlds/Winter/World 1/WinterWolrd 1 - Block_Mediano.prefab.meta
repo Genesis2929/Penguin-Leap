@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 48969fe7889e78348864a4871ed32ae9
+timeCreated: 1453910183
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55095
+  packageName: 2D Platform Background Kit
+  packageVersion: 1.0
+  assetPath: Assets/2D Background Kit/Prefabs/Worlds/Winter/World 1/WinterWolrd 1
+    - Block_Mediano.prefab
+  uploadId: 351385

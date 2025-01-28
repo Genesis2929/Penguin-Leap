@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30ad2f4e9237ff24a85b9bbcf239d2f5
+timeCreated: 1453916908
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55095
+  packageName: 2D Platform Background Kit
+  packageVersion: 1.0
+  assetPath: Assets/2D Background Kit/Prefabs/Effects/Snow_WithSplash.prefab
+  uploadId: 351385
