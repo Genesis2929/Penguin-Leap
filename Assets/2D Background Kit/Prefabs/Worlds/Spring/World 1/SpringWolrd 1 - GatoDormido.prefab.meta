@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 69e6531f77a67664e801f1afaeb7b0b1
+timeCreated: 1453906284
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55095
+  packageName: 2D Platform Background Kit
+  packageVersion: 1.0
+  assetPath: Assets/2D Background Kit/Prefabs/Worlds/Spring/World 1/SpringWolrd 1
+    - GatoDormido.prefab
+  uploadId: 351385

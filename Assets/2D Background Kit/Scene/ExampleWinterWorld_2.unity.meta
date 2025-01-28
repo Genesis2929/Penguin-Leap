@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 64fe2c373c86c604ea447fb842f98420
+timeCreated: 1453927566
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55095
+  packageName: 2D Platform Background Kit
+  packageVersion: 1.0
+  assetPath: Assets/2D Background Kit/Scene/ExampleWinterWorld_2.unity
+  uploadId: 351385

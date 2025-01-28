@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e4a02f4015f41f44d8b51fa7d720337a
+timeCreated: 1453910949
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55095
+  packageName: 2D Platform Background Kit
+  packageVersion: 1.0
+  assetPath: Assets/2D Background Kit/Prefabs/Worlds/Winter/World 3/WinterWolrd 3
+    - Tree_04.prefab
+  uploadId: 351385

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fc38ef47f3b98284abc7200b89272b42
+timeCreated: 1453908879
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55095
+  packageName: 2D Platform Background Kit
+  packageVersion: 1.0
+  assetPath: Assets/2D Background Kit/Prefabs/Worlds/Spring/World 2/SpringWolrd 2
+    - Block_corto.prefab
+  uploadId: 351385

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9ff7efd48432ff242a881d2e5f0ae0d5
+timeCreated: 1453908907
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55095
+  packageName: 2D Platform Background Kit
+  packageVersion: 1.0
+  assetPath: Assets/2D Background Kit/Prefabs/Worlds/Spring/World 2/SpringWolrd 2
+    - Block_Largo.prefab
+  uploadId: 351385
